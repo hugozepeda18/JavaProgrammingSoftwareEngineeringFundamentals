@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Part3\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=s
+comment1.target=boolean\ isEmpty(java.lang.String)
+comment1.text=Checks\ if\ a\ string\ is\ empty\ ("")\ or\ null.
+comment2.params=text\ str
+comment2.target=int\ countMatches(java.lang.String,\ java.lang.String)
+comment2.text=Counts\ how\ many\ times\ the\ substring\ appears\ in\ the\ larger\ string.
+comment3.params=
+comment3.target=void\ testing()
+numComments=4
