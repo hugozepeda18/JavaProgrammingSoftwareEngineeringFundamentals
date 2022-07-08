@@ -71,8 +71,8 @@ public class WhichCountriesExport {
         CSVParser parser = fr.getCSVParser();
         //listExporters(parser, "coffee");
         //parser = fr.getCSVParser();
-        gettingCountry(parser, "Nauru");
-        //twoProducts(parser, "gold", "diamonds");
-        //exportingCountries(parser, "sugar");
+        //gettingCountry(parser, "Nauru");
+        //twoProducts(parser, "cotton", "flowers");
+        exportingCountries(parser, "cocoa");
     }
 }
