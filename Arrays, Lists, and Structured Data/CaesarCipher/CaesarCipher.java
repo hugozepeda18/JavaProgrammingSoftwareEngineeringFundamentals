@@ -38,6 +38,8 @@ public class CaesarCipher {
         //Your answer is the String inside of encrypted
         return encrypted.toString();
     }
+    
+ 
     public void testCaesar() {
         int key = 15;
         //FileResource fr = new FileResource();
