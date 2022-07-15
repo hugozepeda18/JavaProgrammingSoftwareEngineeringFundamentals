@@ -41,9 +41,10 @@ public class CaesarCipher {
     
  
     public void testCaesar() {
-        int key = 15;
+        int key = 8;
         //FileResource fr = new FileResource();
-        String message = "At noon be in the conference room with your hat on for a surprise party. YELL LOUD!";//fr.asString();
+        //fr.asString();
+        String message = "Can you imagine life WITHOUT the internet AND computers in your pocket?";
         String encrypted = encrypt(message, key);
         System.out.println(encrypted);
         String decrypted = encrypt(encrypted, 26-key);
